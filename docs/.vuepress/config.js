@@ -24,15 +24,15 @@ module.exports = {
 				link: '/component-example'
 			},
 			{
-				text: 'Section',
+				text: '讀書報告',
 				items: [
 					{
-						text: 'Section Introduction',
-						link: '/section/#section-introduction'
+						text: '打造超人大腦',
+						link: '/books/#section-introduction'
 					},
 					{
-						text: 'Some More Content!',
-						link: '/section/#some-more-content'
+						text: '訂閱經濟',
+						link: '/books/#some-more-content'
 					}
 				]
 			},
